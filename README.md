@@ -1,4 +1,4 @@
-# PFC_PIC24FJ
+# PFC_CCM_Boost
 This is a sample code for power factor correction for PIC24FJ64GA002 microcontroller
 
 The output voltage is adjustable in the firmware
